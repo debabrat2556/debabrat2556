@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debabrat2556
+- 👋 Hi, I’m Debabrat Adhikary
 - 👀 I’m interested in FULL STACK DEVELOPMENT
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on projects, website design, backend
